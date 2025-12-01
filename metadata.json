@@ -1,0 +1,5 @@
+{
+  "name": "FloodRelief Connect",
+  "description": "An intelligent dashboard that filters and organizes food-related disaster relief requests from raw text using Gemini AI.",
+  "requestFramePermissions": []
+}
